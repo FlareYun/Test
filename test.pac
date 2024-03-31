@@ -1,3 +1,4 @@
 function FindProxyForURL(url, host) {
-    return "PROXY google.com"
+    // Redirect all traffic to Google
+    return "PROXY proxy.example.com:8080";
 }
