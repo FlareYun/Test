@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-    return "PROXY http://test.com";
+  return "PROXY proxyhost.yourdomain.net:8118";
 }
