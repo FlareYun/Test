@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-    return "PROXY google.com:443";
+    return "PROXY flareyungithubio-production.up.railway.app:443";
 }
