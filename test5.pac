@@ -1,3 +1,3 @@
 function FindProxyForURL(url, host) {
-    return "PROXY flareyungithubio-production.up.railway.app:3000";
+    return "PROXY localhost:3000";
 }
