@@ -1,3 +1,3 @@
-function FindProxyForURL(url, host) {
-    return "PROXY flareyungithubio-production.up.railway.app:443";
+function FindProxyForURLEx(url, host) {
+    return "PROXY 127.0.0.1:3000";
 }
